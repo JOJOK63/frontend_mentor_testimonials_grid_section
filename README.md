@@ -1,2 +1,2 @@
-# frontend_mentor_testimmonials_grid_section
+# frontend_mentor_testimonials_grid_section
 FEM train grid
